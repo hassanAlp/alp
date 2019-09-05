@@ -1,6 +1,6 @@
 # Alp
 
-Alp arm project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
+Alp army project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
 
 
 ....
